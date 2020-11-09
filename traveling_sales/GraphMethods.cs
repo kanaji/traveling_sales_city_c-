@@ -9,31 +9,26 @@ namespace traveling_sales
 {
     public static class GraphMethods
     {
-        public static Graph CreateFullGraph()
+
+        public static Graph CreateFullGraph(List<Button> verts)
         {
 
             // brak argumentów i losowości
             Graph graph = new Graph();
 
-            int i = 0;
+            int j = 0;
+
             
-            foreach (Button buttons in )
+            foreach (Button buttons in verts)
             {
                 Vertex vertex = new Vertex();
-                vertex.index = i;
-                i++;
+                vertex.index = j;
+                j++;
                 vertex.x = buttons.Location.X;
                 vertex.y = buttons.Location.Y;
                 graph.vertices.Add(vertex);
             }
 
-            for (int i = 0; i < 15; i++)
-            {
-                Vertex vertex = new Vertex();
-                vertex.index = i;
-                graph.vertices.Add(vertex);
-                //uzupełnienie x i y
-            }
 
             for (int i = 0; i < 15; i++)
             {
@@ -230,7 +225,7 @@ namespace traveling_sales
                                                                                                                                                                              //edge.pheromoneValue = pheromoneValue;
 
                     Edge edge3 = new Edge();
-                    edge3.distance = (int)(Math.Sqrt(Math.Pow(graph.vertices[i].x - graph.vertices[i + 5].x, 2.0) + Math.Pow(graph.vertices[i + 5].y - graph.vertices[i].y, 2.0)));//wzór oblczania dla wierzhołków i - i+1);
+                    edge3.distance = (int)(Math.Sqrt(Math.Pow(graph.vertices[i].x - graph.vertices[i - 5].x, 2.0) + Math.Pow(graph.vertices[i - 5].y - graph.vertices[i].y, 2.0)));//wzór oblczania dla wierzhołków i - i+1);
 
                     edge1.vertex1 = graph.vertices[i];
                     edge1.vertex2 = graph.vertices[i - 1];

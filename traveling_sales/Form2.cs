@@ -13,7 +13,7 @@ namespace traveling_sales
 {
     public partial class Form2 : Form
     {
-        public List<Button> verts = new List<Button>(); //List of buttons for coordinates (x,y)
+        public List<Button> verts; //List of buttons for coordinates (x,y)
         public Form2()
         {
             InitializeComponent();
@@ -21,7 +21,7 @@ namespace traveling_sales
 
         private void Form2_Load(object sender, EventArgs e)
         {
- 
+            verts =  new List<Button>();
             verts.Add(button1);
             verts.Add(button2);
             verts.Add(button3);
@@ -54,6 +54,13 @@ namespace traveling_sales
 
             // Draw line to screen.
             e.Graphics.DrawLine(blackPen, point1, point2);
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form3 f = new Form3(this.verts); // This is bad
+            f.Show();
         }
     }
 }

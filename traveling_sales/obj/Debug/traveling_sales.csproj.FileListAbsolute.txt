@@ -9,3 +9,14 @@ C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling
 C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.exe
 C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.pdb
 C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.Form2.resources
+E:\TSP - projekt\traveling_sales\bin\Debug\traveling_sales.exe
+E:\TSP - projekt\traveling_sales\bin\Debug\traveling_sales.exe.config
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.Form1.resources
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.Form2.resources
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.Form3.resources
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.Properties.Resources.resources
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.csproj.GenerateResource.cache
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.csproj.CoreCompileInputs.cache
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.exe
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.pdb
+E:\TSP - projekt\traveling_sales\bin\Debug\traveling_sales.pdb

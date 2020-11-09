@@ -26,7 +26,7 @@ namespace traveling_sales
         }
         public int distance { get; set; }
         //public bool onesided {get; set}
-        public double pheromoneValue { get; set; }
+        //public double pheromoneValue { get; set; }
         public Vertex vertex1 { get; set; }
         public Vertex vertex2 { get; set; }
         //public float Lenght { get => lenght; set => lenght = value; }
