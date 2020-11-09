@@ -13,6 +13,7 @@ namespace traveling_sales
 {
     public partial class Form2 : Form
     {
+        public List<Button> verts = new List<Button>(); //List of buttons for coordinates (x,y)
         public Form2()
         {
             InitializeComponent();
@@ -20,7 +21,7 @@ namespace traveling_sales
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            List<Button> verts = new List<Button>(); //List of buttons for coordinates (x,y)
+ 
             verts.Add(button1);
             verts.Add(button2);
             verts.Add(button3);
