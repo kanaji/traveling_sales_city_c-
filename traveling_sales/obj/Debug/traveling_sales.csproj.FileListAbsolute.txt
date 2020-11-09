@@ -1,0 +1,11 @@
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\bin\Debug\traveling_sales.exe.config
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\bin\Debug\traveling_sales.exe
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\bin\Debug\traveling_sales.pdb
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.csprojAssemblyReference.cache
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.Form1.resources
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.Properties.Resources.resources
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.csproj.GenerateResource.cache
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.csproj.CoreCompileInputs.cache
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.exe
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.pdb
+C:\Users\Kanaji\source\repos\traveling_sales\traveling_sales\obj\Debug\traveling_sales.Form2.resources
