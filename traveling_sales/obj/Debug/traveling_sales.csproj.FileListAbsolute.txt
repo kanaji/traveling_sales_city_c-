@@ -16,7 +16,8 @@ E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.Form2.resources
 E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.Form3.resources
 E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.Properties.Resources.resources
 E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.csproj.GenerateResource.cache
-E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.csproj.CoreCompileInputs.cache
 E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.exe
 E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.pdb
 E:\TSP - projekt\traveling_sales\bin\Debug\traveling_sales.pdb
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.csprojAssemblyReference.cache
+E:\TSP - projekt\traveling_sales\obj\Debug\traveling_sales.csproj.CoreCompileInputs.cache
